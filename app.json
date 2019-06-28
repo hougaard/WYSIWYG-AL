@@ -1,7 +1,7 @@
 {
   "id": "e660ccc3-7a53-4bf6-8144-242503577e89",
-  "name": "WYSIQYG-AL",
-  "publisher": "Default publisher",
+  "name": "WYSIWYG-AL",
+  "publisher": "hougaard.com",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -20,7 +20,7 @@
       "to": 50149
     }
   ],
-  "contextSensitiveHelpUrl": "https://WYSIQYG-AL.com/help/",
+  "contextSensitiveHelpUrl": "https://wwww.hougaard.com/wysiwyg/",
   "showMyCode": true,
   "runtime": "3.0"
 }
