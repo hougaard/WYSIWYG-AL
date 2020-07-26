@@ -10,10 +10,12 @@ controladdin Wysiwyg
     event ControlReady();
     event SaveRequested(data: Text);
     event ContentChanged();
+    event OnAfterInit();
 
     procedure Init();
     procedure Load(data: Text);
     procedure RequestSave();
+    procedure SetReadOnly(readonly: boolean);
 }
 
 page 50100 "Test Wysiwyg"
