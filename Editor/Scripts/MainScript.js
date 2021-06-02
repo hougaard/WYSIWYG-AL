@@ -5,6 +5,7 @@ var Editor
 function Init() {
 
     var div = document.getElementById("controlAddIn");
+    div.style = "max-height: 600px;min-height: 600px;";
     div.innerHTML = "";
     InputArea = document.createElement("textarea");
     InputArea.id = "Comment";
